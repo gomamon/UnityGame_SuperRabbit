@@ -2,25 +2,25 @@
 
 STORY
 =====
-This story is about a little rabbit without an ear.
-Other rabbits harass player rabbit, because he is different from others.
-One day this rabbit heard that his father, a super rabbit, is in danger.
-So he makes ears and starts a Journey to find his father.
+This story is about a little rabbit without an ear.\n
+Other rabbits harass player rabbit, because he is different from others.\n
+One day this rabbit heard that his father, a super rabbit, is in danger.\n
+So he makes ears and starts a Journey to find his father.\n
 
 How To play
 ===========
 
 ability
 -------
-Player can change the mass using super ear
-'a' : fire
-'s' : water
-'d' : grass
+Player can change the mass using super ear\n
+'a' : fire\n
+'s' : water\n
+'d' : grass\n
 
 Move
 ----
-arrow : moving
-space bar : jump
+arrow : moving\n
+space bar : jump\n
 
 Version
 =======
